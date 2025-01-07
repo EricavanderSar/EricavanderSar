@@ -2,8 +2,8 @@
  
  My name is Erica van der Sar
  
-- 🌱 I’m currently doing my PhD at the Vrije Universiteit Amsterdam on Learning and Stochetsic Optimization for Power Networks.
-- 👀 I’m interested in Mathematical Optimization, Machine Learning, Practical Mathematical puzzels
+- 🌱 I’m currently doing my PhD at the Vrije Universiteit Amsterdam on Learning and Stochastic Optimization for Power Networks.
+- 👀 I’m interested in Mathematical Optimization, Machine Learning, and Practical Mathematical puzzles.
 
 <!---
 EricavanderSar/EricavanderSar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
